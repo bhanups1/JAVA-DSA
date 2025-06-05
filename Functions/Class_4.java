@@ -2,7 +2,7 @@ package Functions;
 
 // find factorial
 
-public class Class_4 {
+public class class_4 {
     public static int factorial(int n ) {
         int f = 1;
 
