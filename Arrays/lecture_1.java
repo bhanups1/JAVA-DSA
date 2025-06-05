@@ -25,6 +25,8 @@ public class lecture_1 {
 
         //marks[2] = 100;
         marks[2] = marks[2] + 1;
+        marks[1] = marks[1] + 1;
+        marks[0] = marks[0] + 1;
         System.out.println("math : " + marks[2]);
     }
 
