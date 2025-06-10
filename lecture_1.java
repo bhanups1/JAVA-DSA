@@ -1,4 +1,4 @@
-package Arrays;
+
 
 //lecture-1 ----[ Introduction of arrays ]
 
